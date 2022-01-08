@@ -1,2 +1,2 @@
 # personal-markdown-gallery
-自用Markdown图床
+自用图床
