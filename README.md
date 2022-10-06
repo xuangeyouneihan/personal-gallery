@@ -1,2 +1,2 @@
 # imghostmd
-自用Markdown图床
+自用 Markdown 图床
